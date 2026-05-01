@@ -49,7 +49,7 @@ section {
 
 /* 4. コンテナ自体の設定（再確認） */
 .container {
-    max-width: 200px;
+    max-width: 20px;
     margin: 0 auto;         /* 箱自体を中央に */
     width: 100%;
 }

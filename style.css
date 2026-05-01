@@ -7,7 +7,7 @@ body {
     background-color: #0d0d0d; /* 黒 */
     color: #c9a96a; /* 金 */
     line-height: 1.7;
-    font-size: 300px;
+    font-size: 16px;
     line-height: 1.6;
 }
 
@@ -24,7 +24,7 @@ header{
 }
 
 header ing {
-    max-width: 200px;
+    max-width: 20px;
     heigin: auto;
     margin: 0 auto;
     display: block;
